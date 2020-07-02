@@ -1,0 +1,12 @@
+'s'
+'a'
+'d'
+'s'
+'a'
+'d'
+'s'
+'a'
+'d'
+'a'
+'s'
+'s''d''s''a''d''s''a''d''a''s''d''a''s'Key.backspace'g''o''o''o''g''l''e''.''c''o''m'Key.enter'\x13''a''d''s''a''d''a''s''d'Key.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspace'\x13''d''s''a''d''a''s''d''s''a''d''s''a'Key.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.ctrl_l'\x13''1''2''3''4''5''6''7''8''9'Key.cmd'p''8''7''6''5''4'Key.f5<255>'9'Key.cmd'p''8'Key.ctrl_lKey.alt_lKey.tab'{'Key.ctrl_lKey.alt_lKey.tabKey.cmd'p'Key.ctrl_lKey.alt_lKey.tab<255>
