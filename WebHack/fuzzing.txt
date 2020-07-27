@@ -1,0 +1,8 @@
+/admin
+/admin.php
+/robots.txt
+/contact
+/contact
+/iletisim
+/sepet
+/kategori/peri-ekolayzir-ekolayzer
