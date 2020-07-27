@@ -1,0 +1,404 @@
+192.168.1.1
+Information about this scan : 
+
+Nessus version : 8.11.0
+Plugin feed version : 202007231356
+Scanner edition used : Nessus Home
+Scan type : Normal
+Scan policy used : FD
+Scanner IP : 192.168.1.128
+
+WARNING : No port scanner was enabled during the scan. This may
+lead to incomplete results.
+
+Port range : default
+Thorough tests : no
+Experimental tests : no
+Paranoia level : 1
+Report verbosity : 1
+Safe checks : yes
+Optimize the test : yes
+Credentialed checks : no
+Patch management checks : None
+CGI scanning : disabled
+Web application tests : disabled
+Max hosts : 256
+Max checks : 5
+Recv timeout : 5
+Backports : None
+Allow post-scan editing: Yes
+Scan Start Date : 2020/7/23 22:39 Turkey Standard Time
+Scan duration : 87 sec
+
+*********************************************************
+192.168.1.101
+Information about this scan : 
+
+Nessus version : 8.11.0
+Plugin feed version : 202007231356
+Scanner edition used : Nessus Home
+Scan type : Normal
+Scan policy used : FD
+Scanner IP : 192.168.1.128
+
+WARNING : No port scanner was enabled during the scan. This may
+lead to incomplete results.
+
+Port range : default
+Thorough tests : no
+Experimental tests : no
+Paranoia level : 1
+Report verbosity : 1
+Safe checks : yes
+Optimize the test : yes
+Credentialed checks : no
+Patch management checks : None
+CGI scanning : disabled
+Web application tests : disabled
+Max hosts : 256
+Max checks : 5
+Recv timeout : 5
+Backports : None
+Allow post-scan editing: Yes
+Scan Start Date : 2020/7/23 22:40 Turkey Standard Time
+Scan duration : 73 sec
+
+*********************************************************
+192.168.1.102
+Information about this scan : 
+
+Nessus version : 8.11.0
+Plugin feed version : 202007231356
+Scanner edition used : Nessus Home
+Scan type : Normal
+Scan policy used : FD
+Scanner IP : 192.168.1.128
+
+WARNING : No port scanner was enabled during the scan. This may
+lead to incomplete results.
+
+Port range : default
+Thorough tests : no
+Experimental tests : no
+Paranoia level : 1
+Report verbosity : 1
+Safe checks : yes
+Optimize the test : yes
+Credentialed checks : no
+Patch management checks : None
+CGI scanning : disabled
+Web application tests : disabled
+Max hosts : 256
+Max checks : 5
+Recv timeout : 5
+Backports : None
+Allow post-scan editing: Yes
+Scan Start Date : 2020/7/23 22:40 Turkey Standard Time
+Scan duration : 76 sec
+
+*********************************************************
+192.168.1.104
+Information about this scan : 
+
+Nessus version : 8.11.0
+Plugin feed version : 202007231356
+Scanner edition used : Nessus Home
+Scan type : Normal
+Scan policy used : FD
+Scanner IP : 192.168.1.128
+
+WARNING : No port scanner was enabled during the scan. This may
+lead to incomplete results.
+
+Port range : default
+Thorough tests : no
+Experimental tests : no
+Paranoia level : 1
+Report verbosity : 1
+Safe checks : yes
+Optimize the test : yes
+Credentialed checks : no
+Patch management checks : None
+CGI scanning : disabled
+Web application tests : disabled
+Max hosts : 256
+Max checks : 5
+Recv timeout : 5
+Backports : None
+Allow post-scan editing: Yes
+Scan Start Date : 2020/7/23 22:40 Turkey Standard Time
+Scan duration : 83 sec
+
+*********************************************************
+192.168.1.107
+Information about this scan : 
+
+Nessus version : 8.11.0
+Plugin feed version : 202007231356
+Scanner edition used : Nessus Home
+Scan type : Normal
+Scan policy used : FD
+Scanner IP : 192.168.1.128
+
+WARNING : No port scanner was enabled during the scan. This may
+lead to incomplete results.
+
+Port range : default
+Thorough tests : no
+Experimental tests : no
+Paranoia level : 1
+Report verbosity : 1
+Safe checks : yes
+Optimize the test : yes
+Credentialed checks : no
+Patch management checks : None
+CGI scanning : disabled
+Web application tests : disabled
+Max hosts : 256
+Max checks : 5
+Recv timeout : 5
+Backports : None
+Allow post-scan editing: Yes
+Scan Start Date : 2020/7/23 22:40 Turkey Standard Time
+Scan duration : 142 sec
+
+*********************************************************
+192.168.1.109
+Information about this scan : 
+
+Nessus version : 8.11.0
+Plugin feed version : 202007231356
+Scanner edition used : Nessus Home
+Scan type : Normal
+Scan policy used : FD
+Scanner IP : 192.168.1.128
+
+WARNING : No port scanner was enabled during the scan. This may
+lead to incomplete results.
+
+Port range : default
+Thorough tests : no
+Experimental tests : no
+Paranoia level : 1
+Report verbosity : 1
+Safe checks : yes
+Optimize the test : yes
+Credentialed checks : no
+Patch management checks : None
+CGI scanning : disabled
+Web application tests : disabled
+Max hosts : 256
+Max checks : 5
+Recv timeout : 5
+Backports : None
+Allow post-scan editing: Yes
+Scan Start Date : 2020/7/23 22:41 Turkey Standard Time
+Scan duration : 96 sec
+
+*********************************************************
+192.168.1.113
+Information about this scan : 
+
+Nessus version : 8.11.0
+Plugin feed version : 202007231356
+Scanner edition used : Nessus Home
+Scan type : Normal
+Scan policy used : FD
+Scanner IP : 192.168.1.128
+
+WARNING : No port scanner was enabled during the scan. This may
+lead to incomplete results.
+
+Port range : default
+Thorough tests : no
+Experimental tests : no
+Paranoia level : 1
+Report verbosity : 1
+Safe checks : yes
+Optimize the test : yes
+Credentialed checks : no
+Patch management checks : None
+CGI scanning : disabled
+Web application tests : disabled
+Max hosts : 256
+Max checks : 5
+Recv timeout : 5
+Backports : None
+Allow post-scan editing: Yes
+Scan Start Date : 2020/7/23 22:42 Turkey Standard Time
+Scan duration : 157 sec
+
+*********************************************************
+192.168.1.114
+Information about this scan : 
+
+Nessus version : 8.11.0
+Plugin feed version : 202007231356
+Scanner edition used : Nessus Home
+Scan type : Normal
+Scan policy used : FD
+Scanner IP : 192.168.1.128
+
+WARNING : No port scanner was enabled during the scan. This may
+lead to incomplete results.
+
+Port range : default
+Thorough tests : no
+Experimental tests : no
+Paranoia level : 1
+Report verbosity : 1
+Safe checks : yes
+Optimize the test : yes
+Credentialed checks : no
+Patch management checks : None
+CGI scanning : disabled
+Web application tests : disabled
+Max hosts : 256
+Max checks : 5
+Recv timeout : 5
+Backports : None
+Allow post-scan editing: Yes
+Scan Start Date : 2020/7/23 22:42 Turkey Standard Time
+Scan duration : 182 sec
+
+*********************************************************
+192.168.1.118
+Information about this scan : 
+
+Nessus version : 8.11.0
+Plugin feed version : 202007231356
+Scanner edition used : Nessus Home
+Scan type : Normal
+Scan policy used : FD
+Scanner IP : 192.168.1.128
+
+WARNING : No port scanner was enabled during the scan. This may
+lead to incomplete results.
+
+Port range : default
+Thorough tests : no
+Experimental tests : no
+Paranoia level : 1
+Report verbosity : 1
+Safe checks : yes
+Optimize the test : yes
+Credentialed checks : no
+Patch management checks : None
+CGI scanning : disabled
+Web application tests : disabled
+Max hosts : 256
+Max checks : 5
+Recv timeout : 5
+Backports : None
+Allow post-scan editing: Yes
+Scan Start Date : 2020/7/23 22:42 Turkey Standard Time
+Scan duration : 116 sec
+
+*********************************************************
+192.168.1.123
+Information about this scan : 
+
+Nessus version : 8.11.0
+Plugin feed version : 202007231356
+Scanner edition used : Nessus Home
+Scan type : Normal
+Scan policy used : FD
+Scanner IP : 192.168.1.128
+
+WARNING : No port scanner was enabled during the scan. This may
+lead to incomplete results.
+
+Port range : default
+Thorough tests : no
+Experimental tests : no
+Paranoia level : 1
+Report verbosity : 1
+Safe checks : yes
+Optimize the test : yes
+Credentialed checks : no
+Patch management checks : None
+CGI scanning : disabled
+Web application tests : disabled
+Max hosts : 256
+Max checks : 5
+Recv timeout : 5
+Backports : None
+Allow post-scan editing: Yes
+Scan Start Date : 2020/7/23 22:43 Turkey Standard Time
+Scan duration : 145 sec
+
+*********************************************************
+192.168.1.128
+Information about this scan : 
+
+Nessus version : 8.11.0
+Plugin feed version : 202007231356
+Scanner edition used : Nessus Home
+Scan type : Normal
+Scan policy used : FD
+Scanner IP : 192.168.1.128
+Thorough tests : no
+Experimental tests : no
+Paranoia level : 1
+Report verbosity : 1
+Safe checks : yes
+Optimize the test : yes
+Credentialed checks : no
+Patch management checks : None
+CGI scanning : disabled
+Web application tests : disabled
+Max hosts : 256
+Max checks : 5
+Recv timeout : 5
+Backports : None
+Allow post-scan editing: Yes
+Scan Start Date : 2020/7/23 22:43 Turkey Standard Time
+Scan duration : 65 sec
+
+*********************************************************
+192.168.1.128
+Information about this scan : 
+
+Nessus version : 8.11.0
+Plugin feed version : 202007231356
+Scanner edition used : Nessus Home
+Scan type : Normal
+Scan policy used : FD
+Scanner IP : 192.168.1.128
+Thorough tests : no
+Experimental tests : no
+Paranoia level : 1
+Report verbosity : 1
+Safe checks : yes
+Optimize the test : yes
+Credentialed checks : no
+Patch management checks : None
+CGI scanning : disabled
+Web application tests : disabled
+Max hosts : 256
+Max checks : 5
+Recv timeout : 5
+Backports : None
+Allow post-scan editing: Yes
+Scan Start Date : 2020/7/23 22:33 Turkey Standard Time
+Scan duration : 188 sec
+
+*********************************************************
+192.168.1.128
+
+Remote operating system : Windows
+Confidence level : 50
+Method : Misc
+
+ 
+The remote host is running Windows
+*********************************************************
+192.168.1.128
+
+Remote operating system : Windows
+Confidence level : 50
+Method : Misc
+
+ 
+The remote host is running Windows
+*********************************************************

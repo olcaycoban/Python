@@ -1,0 +1,9 @@
+192.168.1.128
+
+Remote operating system : Windows
+Confidence level : 50
+Method : Misc
+
+ 
+The remote host is running Windows
+*********************************************************
