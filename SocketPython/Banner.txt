@@ -1,0 +1,2 @@
+Port  21  is open.
+b'220----------_Welcome_to_Pure-FTPd_[privsep]_[TLS]_----------\r\n220-You_are_user_number_1_of_50_allowed.\r\n220-Local_time_is_now_02:16._Server_port:_21.\r\n220-This_is_a_private_system_-_No_anonymous_login\r\n220-IPv6_connections_are_also_welcome_on_this_server.\r\n220_You_will_be_disconnected_after_15_minutes_of_inactivity.\r\n'
